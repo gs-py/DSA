@@ -32,4 +32,4 @@ print(n)
 union(6,1)
 print(n)
 union(7,3)
-print(n)
+print(n) #trure
